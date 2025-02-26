@@ -9,3 +9,10 @@ void loop() {
 }
 
 //Triden Comment Test
+
+
+//Test, Test, Test.
+
+//void function() {
+//gotta write the function
+}
